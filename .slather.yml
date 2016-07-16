@@ -1,0 +1,7 @@
+coverage_service: cobertura_xml
+workspace: Example/SwiftLuhn.xcworkspace
+xcodeproj: Example/SwiftLuhn.xcodeproj
+scheme: SwiftLuhn-Example
+source_directory: SwiftLuhn/Tests
+ignore: 
+    - Example/SwiftLuhn/*
