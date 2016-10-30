@@ -1,5 +1,5 @@
 # SwiftLuhn
-
+[![Swift](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)](https://swift.org)
 [![Circle CI](https://circleci.com/gh/MaxKramer/SwiftLuhn.svg?style=shield)](https://circleci.com/gh/MaxKramer/SwiftLuhn)
 [![Version](https://img.shields.io/cocoapods/v/SwiftLuhn.svg?style=flat)](http://cocoapods.org/pods/SwiftLuhn)
 [![License](https://img.shields.io/cocoapods/l/SwiftLuhn.svg?style=flat)](http://cocoapods.org/pods/SwiftLuhn)
